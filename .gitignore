@@ -1,0 +1,11 @@
+#Config files
+*.sql
+*.env
+*.lock
+*json
+*.htaccess
+*.xml
+
+vendor/*
+storage/*
+tests/*
